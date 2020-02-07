@@ -1,12 +1,12 @@
 {
-  "name": "node-starter-template",
+  "name": "typescript-nodeapp",
   "version": "1.0.0",
-  "description": "Boilerplate Code for Node Projects",
+  "description": "Typescript Node Projects = for server apps",
   "keywords": [
     "Node",
     "TypeScript"
   ],
-  "author": "Manu Bhardwaj",
+  "author": "Rakesh",
   "license": "MIT",
   "scripts": {
     "watch-ts": "tsc -w",
